@@ -180,7 +180,7 @@ aside ul {
     columns:2;
 }
 
-aside ul li {
+aside ul abbr {
     text-decoration:none;
 }
 
